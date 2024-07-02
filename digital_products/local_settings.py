@@ -1,0 +1,4 @@
+IS_DEVEL=True
+DEBUG = True
+
+ALLOWED_HOSTS = []

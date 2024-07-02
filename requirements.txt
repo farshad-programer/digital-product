@@ -1,0 +1,40 @@
+# pip install -r requirements.txt
+
+# python -m venv venv
+# venv\Scripts\activate 
+#  pip freeze > requirements.txt
+
+# pip install django==4.2
+# pip install djangorestframework
+
+# pip freeze
+# pip install ipython
+# ipython
+# exit()
+
+# django
+# authntication
+# database
+
+# git init
+# .gitignore
+# git remote add origin https://github.com/farshad-programer/digital-product.git
+# git push -u origin main
+# git status
+
+# django-admin startproject digital_products .
+# py manage.py startapp products
+# pip install pillow
+# admin.py & models.py Create
+
+# MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
+# MEDIA_URL = '/media/'
+# 'rest_framework','apps' in setting
+# IS_DEVEL=True
+# local_settings.py create
+
+# py manage.py makemigrations
+# py manage.py migrate
+
+# python manage.py createsuperuser
+# python manage.py runserver
